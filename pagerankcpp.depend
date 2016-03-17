@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1457087263 source:d:\pagerankcpp\main.cpp
+	<cstdio>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<fstream>
+
